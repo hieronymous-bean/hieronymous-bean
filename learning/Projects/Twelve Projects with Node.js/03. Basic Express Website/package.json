@@ -1,0 +1,20 @@
+{
+  "name": "basic-express-website",
+  "version": "1.0.0",
+  "description": "Basic Website Using Express.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Jeffrey Brown",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jade": "^1.11.0",
+    "node-mailer": "^0.1.1"
+  }
+}

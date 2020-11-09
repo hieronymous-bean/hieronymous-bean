@@ -1,0 +1,1 @@
+To get started, run `npm run setup` followed by `npm start`

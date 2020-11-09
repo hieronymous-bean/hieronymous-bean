@@ -4,6 +4,7 @@
   "description": "A very simple web server.",
   "main": "server.js",
   "scripts": {
+    "setup": "npm install",
     "test": "test"
   },
   "author": "hieronymous-bean",
